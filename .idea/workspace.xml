@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a629e2d-6534-4af9-b12c-529c36770019" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Z2HnVFeAy3gFIQAXWnLY7DcwoZ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4643678" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestApp.testApp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appium_demotest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestApp" />
+      <option name="METHOD_NAME" value="testApp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestApp.testApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a629e2d-6534-4af9-b12c-529c36770019" name="Default Changelist" comment="" />
+      <created>1584030435699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584030435699</updated>
+      <workItem from="1584030439431" duration="653000" />
+      <workItem from="1584086049369" duration="5841000" />
+      <workItem from="1584097431070" duration="2608000" />
+      <workItem from="1584101110723" duration="794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="665" y="202" key="#Project_Structure" timestamp="1584088422455">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="665" y="202" key="#Project_Structure/-1122.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584088422455" />
+    <state x="405" y="140" key="CommitChangelistDialog2" timestamp="1584104031042">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="405" y="140" key="CommitChangelistDialog2/-1122.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584104031042" />
+    <state x="158" y="117" key="DiffContextDialog" timestamp="1584104025384">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="158" y="117" key="DiffContextDialog/-1122.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584104025384" />
+    <state width="1303" height="215" key="GridCell.Tab.0.bottom" timestamp="1584100873487">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="798" height="208" key="GridCell.Tab.0.bottom/-1122.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584093192637" />
+    <state width="1638" height="208" key="GridCell.Tab.0.bottom/-1122.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584092821585" />
+    <state width="1303" height="215" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1584100873487" />
+    <state width="1303" height="215" key="GridCell.Tab.0.center" timestamp="1584100873486">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="798" height="208" key="GridCell.Tab.0.center/-1122.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584093192636" />
+    <state width="1638" height="208" key="GridCell.Tab.0.center/-1122.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584092821583" />
+    <state width="1303" height="215" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1584100873486" />
+    <state width="1303" height="215" key="GridCell.Tab.0.left" timestamp="1584100873486">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="798" height="208" key="GridCell.Tab.0.left/-1122.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584093192636" />
+    <state width="1638" height="208" key="GridCell.Tab.0.left/-1122.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584092821582" />
+    <state width="1303" height="215" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1584100873486" />
+    <state width="1303" height="215" key="GridCell.Tab.0.right" timestamp="1584100873487">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="798" height="208" key="GridCell.Tab.0.right/-1122.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584093192636" />
+    <state width="1638" height="208" key="GridCell.Tab.0.right/-1122.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584092821584" />
+    <state width="1303" height="215" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1584100873487" />
+    <state x="598" y="118" key="SettingsEditor" timestamp="1584090276419">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="598" y="118" key="SettingsEditor/-1122.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584090276419" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1584104073680">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/-1122.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584104073680" />
+    <state x="811" y="439" key="svn.passwordDialog" timestamp="1584103877255">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="811" y="439" key="svn.passwordDialog/-1122.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584103877255" />
+    <state x="678" y="334" width="724" height="404" key="svn.repositoryBrowser" timestamp="1584103892709">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="678" y="334" width="724" height="404" key="svn.repositoryBrowser/-1122.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584103892709" />
+    <state x="828" y="318" key="svn4idea.import.options" timestamp="1584103707552">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="828" y="318" key="svn4idea.import.options/-1122.-1057.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1584103707552" />
+  </component>
+</project>
